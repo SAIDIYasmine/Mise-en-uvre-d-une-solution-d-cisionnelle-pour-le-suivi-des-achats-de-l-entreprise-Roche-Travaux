@@ -1,0 +1,49 @@
+column_a,id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera
+0,32,James Dudley Barker,2015-01-08,shot,shovel,42,M,W,Salt Lake City,UT,false,attack,Not fleeing,true
+1,37,Thomas Hamby,2015-01-08,shot,gun,49,M,W,Syracuse,UT,false,attack,Not fleeing,true
+2,55,Jeffrey R. Nielson,2015-01-14,shot,knife,34,M,W,Draper,UT,false,attack,Not fleeing,true
+3,158,Cody Evans,2015-02-16,shot,toy weapon,24,M,W,Provo,UT,true,attack,Not fleeing,false
+4,426,Kevin Vance Norton,2015-05-03,shot,gun,36,M,W,Roosevelt,UT,true,attack,Not fleeing,true
+5,622,Rocco Joseph Palmisano,2015-07-09,shot,gun,50,M,W,Parowan,UT,false,attack,Not fleeing,false
+6,687,Roger Darrin Barker,2015-07-29,shot,gun,53,M,W,Logan,UT,true,attack,Not fleeing,false
+7,780,Kyle Lambrose,2015-08-26,shot,gun,27,M,W,West Jordan,UT,true,attack,Not fleeing,false
+8,786,William Evans,2015-08-28,shot,gun,28,M,W,Spanish Fork,UT,true,attack,Not fleeing,true
+9,857,Robert Berger,2015-09-23,shot,knife,48,M,O,Salt Lake City,UT,false,attack,Not fleeing,false
+10,1175,Corey Lee Henderson,2016-01-17,shot,gun,31,M,W,Salt Lake City,UT,false,attack,Foot,true
+11,1295,Justin Patrick Moses,2016-02-19,shot,knife,35,M,W,Ogden,UT,true,attack,Not fleeing,false
+12,1840,David Shane Anderson,2016-04-27,shot,gun,36,M,W,Milcreek,UT,false,attack,Not fleeing,false
+13,1505,Mark Daniel Bess,2016-04-30,shot,knife,33,M,W,Spanish Fork,UT,false,other,Foot,false
+14,1609,Daniel Bennett Edwards,2016-06-12,shot,knife,23,M,W,Eagle Mountain,UT,true,other,Not fleeing,false
+15,1755,Benjamin William Heaton,2016-08-03,shot,gun,31,M,W,Clearfield,UT,false,attack,Foot,false
+16,1902,Jeremy Ray Swenson,2016-09-19,shot,unknown weapon,30,M,W,Logan Canyon,UT,true,other,Not fleeing,false
+17,2010,Jesse Jay Taylor,2016-11-02,shot,undetermined,40,M,W,West Jordan,UT,false,undetermined,Other,false
+18,2366,Nicolas Sanchez,2017-02-21,shot,gun,38,M,H,Roy,UT,false,attack,Not fleeing,true
+19,2367,Bartolo Justice Sambrano,2017-02-21,shot,gun,25,M,H,Ogden,UT,false,attack,Not fleeing,true
+20,2381,Barry Michael Zumwalt,2017-02-26,shot,gun,36,M,W,Aragonite,UT,true,other,Not fleeing,false
+21,2631,Roman Jade Carrillo,2017-05-30,shot,gun,18,M,H,Salt Lake City,UT,false,attack,Car,false
+22,2740,Cody Ray McCray,2017-07-04,shot,,32,M,H,Centerville,UT,true,undetermined,Car,false
+23,2862,Patrick Harmon,2017-08-13,shot,knife,50,M,B,Salt Lake City,UT,false,other,Foot,true
+24,2991,Michael Bruce Peterson,2017-09-28,shot,baton,39,M,W,Salt Lake City,UT,false,other,Not fleeing,false
+25,3417,Fordell Hill,2018-02-15,shot,gun,27,M,N,Montezuma Creek,UT,false,attack,Car,false
+26,3501,Bryan Liles,2018-03-13,shot,gun,31,M,W,Sandy,UT,false,other,Not fleeing,false
+27,3595,Elijah James Smith,2018-04-08,shot,undetermined,20,M,B,West Valley City,UT,false,other,Foot,true
+28,3622,Lonnie Marcel Bowen,2018-04-17,shot,screwdriver,41,M,B,Magna,UT,true,attack,Car,false
+29,3629,Delorean Pikyavit,2018-04-18,shot,knife,32,M,N,Sugar House,UT,true,other,Not fleeing,false
+30,3711,Michael Glad,2018-05-28,shot,gun,23,M,W,West Jordan,UT,false,attack,Car,false
+31,3733,Zane Anthony James,2018-05-29,shot,,19,M,W,Cottonwood Heights,UT,false,undetermined,Car,false
+32,3790,Abe Martinez,2018-06-17,shot,gun,44,M,H,South Salt Lake,UT,false,other,Not fleeing,false
+33,4089,Diamonte Riviore,2018-10-11,shot,knife,22,M,B,West Jordan,UT,false,other,,false
+34,4129,James Lyle Kuehn,2018-10-17,shot and Tasered,knife,61,M,W,Kearns,UT,false,other,,false
+35,4114,Andrey Tkachenko,2018-10-18,shot,gun,23,M,W,Salt Lake City,UT,false,other,Car,false
+36,4121,Jason Whittle,2018-10-22,shot,knife,26,M,W,Riverton,UT,false,attack,Not fleeing,false
+37,4170,Christopher William Parrish,2018-11-09,shot,rock,33,M,W,Ogden,UT,false,attack,Car,false
+38,4171,Cody Paris Belgard,2018-11-09,shot,unarmed,30,M,W,Salt Lake City,UT,false,undetermined,Car,true
+39,4202,Felix Anthony Calata,2018-11-24,shot,vehicle,32,M,H,South Salt Lake,UT,true,attack,Car,false
+40,4209,Allen Scott Culpepper,2018-11-27,shot,gun,64,M,W,Clinton,UT,true,undetermined,Not fleeing,false
+41,4241,Ricardo Galvan,2018-11-30,shot,gun,37,M,H,Ogden,UT,false,attack,Not fleeing,true
+42,4269,Anthony Ray Borden-Cortez,2018-12-04,shot,toy weapon,18,M,H,Ogden,UT,false,attack,Not fleeing,true
+43,4631,Harold Vincent Robinson,2019-04-08,shot,gun,37,M,B,Salt Lake City,UT,false,attack,Car,false
+44,4845,Jose Martinez,2019-07-05,shot,undetermined,34,M,H,West Jordan,UT,false,undetermined,Foot,false
+45,4876,Michael Anthony Brand,2019-07-15,shot,toy weapon,43,M,W,Salt Lake City,UT,true,other,Not fleeing,true
+46,4903,Donald Lee Joseph,2019-07-31,shot,unknown weapon,37,M,,Roy,UT,false,other,,false
+47,4910,Riche Antonio Santiago,2019-08-05,shot,gun,29,M,,Salt Lake City,UT,false,attack,Not fleeing,true
